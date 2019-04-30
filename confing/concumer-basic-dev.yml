@@ -43,5 +43,7 @@ management:
     web:
       exposure:
         include: refresh
-
+        
+        
+foo: new ok ok ok concumer
 
